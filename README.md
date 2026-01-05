@@ -1,6 +1,6 @@
 # JS Secret Finder
 
-JS Secret Finder is a simple Python tool that scans JavaScript files for exposed
+JS Secret Finder is a simple Python tool that scans JavaScript code for exposed
 client-side authentication logic and suspicious hardcoded values that may lead
 to sensitive information disclosure.
 
@@ -49,4 +49,4 @@ Example:
 ```
 
 ## Disclaimer
-This tool is intended for educational purposes and authorized security testing only.Use it only on systems you own or have explicit permisson to test.
+This tool is intended for educational purposes and authorized security testing only. Use it only on systems you own or have explicit permission to test.
