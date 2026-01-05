@@ -1,0 +1,3 @@
+[+] Potential secrets found in http://10.82.187.242/login.html:
+ - h3ck3rBoi
+ - RandomLo0o0o0o0o0o0o0o0o0o0gpath12345_Flag_
